@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CVMaker/static/css/main.a9ebedf4.chunk.css",
+    "main.js": "/CVMaker/static/js/main.0df5b8d8.chunk.js",
+    "main.js.map": "/CVMaker/static/js/main.0df5b8d8.chunk.js.map",
+    "runtime-main.js": "/CVMaker/static/js/runtime-main.e4df2d31.js",
+    "runtime-main.js.map": "/CVMaker/static/js/runtime-main.e4df2d31.js.map",
+    "static/js/2.aba48fcf.chunk.js": "/CVMaker/static/js/2.aba48fcf.chunk.js",
+    "static/js/2.aba48fcf.chunk.js.map": "/CVMaker/static/js/2.aba48fcf.chunk.js.map",
+    "static/js/3.bd9eba52.chunk.js": "/CVMaker/static/js/3.bd9eba52.chunk.js",
+    "static/js/3.bd9eba52.chunk.js.map": "/CVMaker/static/js/3.bd9eba52.chunk.js.map",
+    "index.html": "/CVMaker/index.html",
+    "static/css/main.a9ebedf4.chunk.css.map": "/CVMaker/static/css/main.a9ebedf4.chunk.css.map",
+    "static/js/2.aba48fcf.chunk.js.LICENSE.txt": "/CVMaker/static/js/2.aba48fcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4df2d31.js",
+    "static/js/2.aba48fcf.chunk.js",
+    "static/css/main.a9ebedf4.chunk.css",
+    "static/js/main.0df5b8d8.chunk.js"
+  ]
+}
