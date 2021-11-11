@@ -1,0 +1,33 @@
+.PersonalInfo {
+  /* display: flex; */
+  align-items: center;
+  position: relative;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+.PersonalInfo > form > * {
+  width: 150px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.nameShow,
+.emailShow,
+.phoneShow {
+  display: none;
+}
+
+#edit {
+  position: absolute;
+  top: 20px;
+  right: 100px;
+}
